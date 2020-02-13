@@ -8,7 +8,6 @@ This is just a website all about the author,her hobbies,age and her education ba
 ## Setup/Installation Requirements
 vsc
 ubuntu 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
 There are no Known Bugs in this website.
 ## Technologies Used
